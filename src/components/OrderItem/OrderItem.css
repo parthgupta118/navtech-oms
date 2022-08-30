@@ -1,0 +1,24 @@
+.order-item:hover .order-actions {
+    visibility: visible !important;
+}
+
+.order-item {
+    width: 30%;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 0px 16px 17px rgba(0, 0, 0, 0.04);
+}
+
+.action-icon {
+    width: fit-content;
+    height: fit-content;
+    border-radius: 5px;
+}
+
+.action-icon i {
+    font-size: 1.2rem;
+}
+
+.order-total-text {
+    font-size: 1.1rem;
+}
